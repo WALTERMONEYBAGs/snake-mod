@@ -55,7 +55,7 @@ window.snake.more_menu = function(e) {
 
   // blursed
   img = new Image;
-  img.src = 'https://image.pngaaa.com/167/684167-middle.png';
+  img.src = 'https://cdn.costumewall.com/wp-content/uploads/2015/09/sheriff-woody.jpg';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
