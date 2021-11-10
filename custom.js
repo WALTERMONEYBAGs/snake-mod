@@ -55,7 +55,7 @@ window.snake.more_menu = function(e) {
 
   // blursed
   img = new Image;
-  img.src = 'https://cdn.costumewall.com/wp-content/uploads/2015/09/sheriff-woody.jpg';
+  img.src = 'https://image.similarpng.com/very-thumbnail/2020/06/Fast-delivery-logo-design-vector-PNG.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
